@@ -9,16 +9,17 @@ body {
 }
 
 header {
+    
   display: flex;
   width: 100%;
-  /* background-image: linear-gradient(to right, red , yellow); */
+  background-color: teal;
+  color: white;
   height: 5rem;
 }
 .logoH {
-  color: teal;
-  text-shadow: 1px 1px 27px rgb(255, 255, 255);
   margin: 14px auto;
 }
+
 
 .component {
   background-image: url(https://i.pinimg.com/originals/20/cb/e3/20cbe3da45f15b3c4748345f9002cca7.jpg);
@@ -96,6 +97,7 @@ audio {
 }
 footer {
   background-color: teal;
+  
   padding-bottom: 2rem;
   margin-top: 1rem;
   font-size: 15px;
