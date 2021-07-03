@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  /* height: 45rem; */
+}
+
+header {
+  display: flex;
+  width: 100%;
+  /* background-image: linear-gradient(to right, red , yellow); */
+  height: 5rem;
+}
+.logoH {
+  color: teal;
+  text-shadow: 1px 1px 27px rgb(255, 255, 255);
+  margin: 14px auto;
+}
+
+.component {
+  background-image: url(https://i.pinimg.com/originals/20/cb/e3/20cbe3da45f15b3c4748345f9002cca7.jpg);
+  background-repeat: no-repeat;
+  background-color: teal;
+  margin: 0 auto;
+  box-shadow: 1px 1px 24px rgb(0, 0, 0);
+  width: 90%;
+  border-radius: 20px;
+  margin-top: 1rem;
+  padding: 20px;
+}
+.letter{
+    text-align:center;
+    padding: 12px;
+    margin: 0 auto;
+    color: black;
+    border: 2px ;
+    font-size: 30px;
+    width: 50px;
+    background-color: white;
+}
+.component h2 {
+    text-align:center;
+    color: white;
+  text-shadow: 12px 1px 12px rgb(0, 0, 0);
+}
+.component p{
+    text-align: center;
+}
+audio {
+  margin: 2rem 0;
+}
+.shareBtn {
+  cursor: pointer;
+  text-align: center;
+  width: 100%;
+  padding: 15px;
+  border-radius: 22px;
+  background-color: rgb(51, 210, 30);
+}
+.shareBtn a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+.share h1 {
+  margin: 12px 0;
+  text-shadow: 12px 1px 12px rgb(0, 0, 0);
+  color: white;
+}
+.me {
+  margin: 20px 0;
+  text-align: center;
+  color: rgb(68, 68, 68);
+}
+.message{
+    font-size: 20px;
+    color:white;
+}
+.contactme {
+  width: 10rem;
+  margin: 0 auto;
+  background-color: teal;
+  text-align: center;
+  color: white;
+  border-radius: 12px;
+  padding: 8px;
+  text-decoration: none;
+}
+.contactme a {
+  text-decoration: none;
+  color: whitesmoke;
+  font-size: 15px;
+}
+footer {
+    margin-top: 1rem;
+  font-size: 20px;
+  text-align: center;
+  left: 40%;
+  bottom: 0;
+  color: gray;
+}
+footer p {
+  text-align-last: center;
+}
+footer a{
+    text-decoration: none;
+    color: tomato;
+}

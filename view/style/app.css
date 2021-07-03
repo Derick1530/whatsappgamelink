@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+body {
+  background-color: #eee;
+  font-family: 'Roboto', sans-serif;
+}
+header {
+  display: flex;
+  width: 100%;
+  background-color: teal;
+  color: white;
+  height: 5rem;
+}
+.logoH{
+    margin: 14px auto;
+  }
+main{
+    width: 90%;
+    margin: 0 auto;
+    padding: 2rem;
+    box-shadow: 3px 1px 24px rgba(0, 0, 0, 0.3),-3px 1px 14px rgba(0, 0, 0, 0.3);
+}
+.element{
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+}
+section{
+    cursor: pointer;
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.element:hover{
+    color: black;
+}
+
+/* .element{
+    margin: 12px;
+    background-color: saddlebrown;
+    text-decoration: none;
+    color: white;
+} */
+#a{
+    background-color: red ;
+}
+#b{
+    background-color: coral ;
+}
+#c{
+    background-color:gold ;
+}
+#d{
+    background-color: crimson;
+}
+#e{
+    background-color: tomato;
+}
+#f{
+    background-color:green ;
+}
+#g{
+    background-color:cyan ;
+}
+#h{
+    background-color:darkgoldenrod ;
+}
+#i{
+    background-color: fuchsia ;
+}
+#j{
+    background-color: purple ;
+}
+#k{
+    background-color:palevioletred ;
+}
+#l{
+    background-color: violet ;
+}
+#m{
+    background-color: forestgreen ;
+}
+#n{
+    background-color: floralwhite;
+}
+#o{
+    background-color:blue ;
+}
+#p{
+    background-color:navy ;
+}
+#q{
+    background-color: navajowhite;
+}
+#r{
+    background-color:mediumvioletred ;
+}
+#s{
+    background-color: moccasin;
+}
+#t{
+    background-color: thistle;
+}
+#u{
+    background-color:teal ;
+}
+#v{
+    background-color: tan;
+}
+#w{
+    background-color: darkorange;
+}
+#x{
+    background-color: deepskyblue;
+}
+#y{
+    background-color: dimgray;
+}
+#z{
+    background-color:darkslateblue ;
+}
