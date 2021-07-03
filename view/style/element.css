@@ -31,23 +31,23 @@ header {
   margin-top: 1rem;
   padding: 20px;
 }
-.letter{
-    text-align:center;
-    padding: 12px;
-    margin: 0 auto;
-    color: black;
-    border: 2px ;
-    font-size: 30px;
-    width: 50px;
-    background-color: white;
+.letter {
+  text-align: center;
+  padding: 12px;
+  margin: 0 auto;
+  color: black;
+  border: 2px;
+  font-size: 30px;
+  width: 50px;
+  background-color: white;
 }
 .component h2 {
-    text-align:center;
-    color: white;
+  text-align: center;
+  color: white;
   text-shadow: 12px 1px 12px rgb(0, 0, 0);
 }
-.component p{
-    text-align: center;
+.component p {
+  text-align: center;
 }
 audio {
   margin: 2rem 0;
@@ -75,9 +75,9 @@ audio {
   text-align: center;
   color: rgb(68, 68, 68);
 }
-.message{
-    font-size: 20px;
-    color:white;
+.message {
+  font-size: 20px;
+  color: white;
 }
 .contactme {
   width: 10rem;
@@ -95,17 +95,19 @@ audio {
   font-size: 15px;
 }
 footer {
+  background-color: teal;
+  padding-bottom: 2rem;
   margin-top: 1rem;
-font-size: 20px;
-text-align: center;
-left: 40%;
-bottom: 0;
-color: gray;
+  font-size: 15px;
+  text-align: center;
+  left: 40%;
+  bottom: 0;
+  color: rgb(236, 236, 236);
 }
 footer p {
-text-align-last: center;
+  text-align-last: center;
 }
-footer a{
+footer a {
   text-decoration: none;
-  color: tomato;
+  color: gold;
 }

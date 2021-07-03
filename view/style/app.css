@@ -5,7 +5,7 @@
 }
 body {
   background-color: #eee;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 header {
   display: flex;
@@ -14,28 +14,28 @@ header {
   color: white;
   height: 5rem;
 }
-.logoH{
-    margin: 14px auto;
-  }
-main{
-    width: 90%;
-    margin: 1rem auto;
-    padding: 2rem;
-    box-shadow: 3px 1px 24px rgba(0, 0, 0, 0.3),-3px 1px 14px rgba(0, 0, 0, 0.3);
+.logoH {
+  margin: 14px auto;
 }
-.element{
-    font-size: 30px;
-    text-decoration: none;
-    color: white;
+main {
+  width: 90%;
+  margin: 1rem auto;
+  padding: 2rem;
+  box-shadow: 3px 1px 24px rgba(0, 0, 0, 0.3), -3px 1px 14px rgba(0, 0, 0, 0.3);
 }
-section{
-    cursor: pointer;
-    text-align: center;
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
+.element {
+  font-size: 30px;
+  text-decoration: none;
+  color: white;
 }
-.element:hover{
-    color: black;
+section {
+  cursor: pointer;
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.element:hover {
+  color: black;
 }
 
 /* .element{
@@ -44,88 +44,89 @@ section{
     text-decoration: none;
     color: white;
 } */
-#a{
-    background-color: red ;
+#a {
+  background-color: red;
 }
-#b{
-    background-color: coral ;
+#b {
+  background-color: coral;
 }
-#c{
-    background-color:gold ;
+#c {
+  background-color: gold;
 }
-#d{
-    background-color: crimson;
+#d {
+  background-color: crimson;
 }
-#e{
-    background-color: tomato;
+#e {
+  background-color: tomato;
 }
-#f{
-    background-color:green ;
+#f {
+  background-color: green;
 }
-#g{
-    background-color:cyan ;
+#g {
+  background-color: cyan;
 }
-#h{
-    background-color:darkgoldenrod ;
+#h {
+  background-color: darkgoldenrod;
 }
-#i{
-    background-color: fuchsia ;
+#i {
+  background-color: fuchsia;
 }
-#j{
-    background-color: purple ;
+#j {
+  background-color: purple;
 }
-#k{
-    background-color:palevioletred ;
+#k {
+  background-color: palevioletred;
 }
-#l{
-    background-color: violet ;
+#l {
+  background-color: violet;
 }
-#m{
-    background-color: forestgreen ;
+#m {
+  background-color: forestgreen;
 }
-#n{
-    background-color: floralwhite;
+#n {
+  background-color: floralwhite;
 }
-#o{
-    background-color:blue ;
+#o {
+  background-color: blue;
 }
-#p{
-    background-color:navy ;
+#p {
+  background-color: navy;
 }
-#q{
-    background-color: navajowhite;
+#q {
+  background-color: navajowhite;
 }
-#r{
-    background-color:mediumvioletred ;
+#r {
+  background-color: mediumvioletred;
 }
-#s{
-    background-color: moccasin;
+#s {
+  background-color: moccasin;
 }
-#t{
-    background-color: thistle;
+#t {
+  background-color: thistle;
 }
-#u{
-    background-color:teal ;
+#u {
+  background-color: teal;
 }
-#v{
-    background-color: tan;
+#v {
+  background-color: tan;
 }
-#w{
-    background-color: darkorange;
+#w {
+  background-color: darkorange;
 }
-#x{
-    background-color: deepskyblue;
+#x {
+  background-color: deepskyblue;
 }
-#y{
-    background-color: dimgray;
+#y {
+  background-color: dimgray;
 }
-#z{
-    background-color:darkslateblue ;
+#z {
+  background-color: darkslateblue;
 }
 
 footer {
-    background-color: teal;
-    margin-top: 1rem;
+  background-color: teal;
+  padding-bottom: 2rem;
+  margin-top: 1rem;
   font-size: 15px;
   text-align: center;
   left: 40%;
@@ -135,7 +136,7 @@ footer {
 footer p {
   text-align-last: center;
 }
-footer a{
-    text-decoration: none;
-    color: gold;
+footer a {
+  text-decoration: none;
+  color: gold;
 }
